@@ -18,7 +18,6 @@ I am a 2nd year student at École des Ponts ParisTecc in the departement of Appl
 
 ### GitHub Stats
 ![Hassen214's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassen214&show_icons=true&theme=radical)
-
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassen214&layout=compact&theme=radical)
 ### Connect with Me:

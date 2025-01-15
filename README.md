@@ -1,7 +1,8 @@
 ## Hi there, I'm Hassene214 👋
 
 ### About Me
-I'm a passionate developer with a keen interest in open-source projects and a love for learning new technologies. My goal is to create impactful software that solves real-world problems.
+I am a 2nd year student at École des Ponts ParisTecc in the departement of Applied Math and Computer Science. I am majoring in both Machine learning and Finance.
+
 
 - 🔭 I’m currently working on several exciting projects in web development and AI.
 - 🌱 I’m always learning something new, currently diving deep into machine learning.
@@ -18,5 +19,7 @@ I'm a passionate developer with a keen interest in open-source projects and a lo
 ### GitHub Stats
 ![Hassen214's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassen214&show_icons=true&theme=radical)
 
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassen214&layout=compact&theme=radical)
 ### Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassene-k-3a780b12a)

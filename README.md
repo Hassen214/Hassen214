@@ -1,7 +1,7 @@
 ## Hi there, I'm Hassene214 👋
 
 ### About Me
-I am a 2nd year student at École des Ponts ParisTecc in the departement of Applied Math and Computer Science. I am majoring in both Machine learning and Finance.
+I am a 2nd year student at École des Ponts ParisTech in the departement of Applied Math and Computer Science. I am majoring in both Machine learning and Finance.
 
 
 - 🔭 I’m currently working on several exciting projects in web development and AI.

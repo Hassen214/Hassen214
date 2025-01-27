@@ -11,6 +11,10 @@ I am a 2nd year student at École des Ponts ParisTech in the departement of Appl
 - 📫 How to reach me: [hhassenkallala@gmail.com](mailto:hhassenkallala@gmail.com)
 - ⚡ Fun fact: I love playing chess and solving Rubik's Cube.
 
+### Projects:
+- **Chess Project:** Created my own chess engine and chess graphics design. [Projet-echecs-TDLOG](https://github.com/j3mouad/Projet-echecs-TDLOG)
+- **Finance Project:** Calibration of the Vasicek model using MLE and GMM in collaboration with Milliman. [Project-IMI](https://github.com/Hassen214/Project-IMI)
+
 ### Languages and Tools:
 - **Languages:** ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white)
 

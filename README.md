@@ -14,7 +14,7 @@ I am a 2nd year student at École des Ponts ParisTech in the departement of Appl
 ### Projects:
 - **Chess Project:** Created my own chess engine and chess graphics design. [Projet-echecs-TDLOG](https://github.com/j3mouad/Projet-echecs-TDLOG)
 - **Finance Project:** Calibration of the Vasicek model using MLE and GMM in collaboration with Milliman. [Project-IMI](https://github.com/Hassen214/Project-IMI)
-- **Stock Forecasting:** Using different ML and DL techniques to do time series forecasting to predeict Stock Market. [Time-series-forecasting](https://github.com/Hassen214/Time-series-forecasting)
+
 
 ### Languages and Tools:
 - **Languages:** ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white)
